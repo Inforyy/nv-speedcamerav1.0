@@ -7,3 +7,5 @@ Its reworked from a old esx script that i had keep in mind that the qb version i
 Disclaimer: Wont be updated anymore as of 06/30/2022
 
 Only change the `local totalAmount = 200`
+
+Updated on 13/02/2023 so it only hard files instead of rar
